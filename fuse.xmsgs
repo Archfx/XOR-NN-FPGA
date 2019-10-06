@@ -5,11 +5,5 @@
      behavior or data corruption.  It is strongly advised that
      users do not edit the contents of this file. -->
 <messages>
-<msg type="warning" file="HDLCompiler" num="248" delta="unknown" >"C:/Users/Aruna/Documents/ISE/XOR_NN/mac.v" Line 50: Block identifier is required on this block
-</msg>
-
-<msg type="warning" file="HDLCompiler" num="248" delta="unknown" >"C:/Users/Aruna/Documents/ISE/XOR_NN/mac.v" Line 66: Block identifier is required on this block
-</msg>
-
 </messages>
 
